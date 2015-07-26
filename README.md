@@ -3,7 +3,7 @@ Repository for the course project for Getting and Cleaning Data Course
 
 This repository contains files to get and clean raw data from observations conducted with the Samsung S2 accelerometer.  The purpose of this project is to take this raw data and traform it into tidy datasets of the mean and stadard deviations of the origional measurements. 
 
-#Files:
+##Files:
 * GCDproject.zip  - This zip file contains the raw data from the accelerometer observations.  The origional readMe and CodeBook files are contained in this zipfile.
 
 * TidyDataAdd.txt - This is a text datafile that contains the measurements agrregated by subject and activity
